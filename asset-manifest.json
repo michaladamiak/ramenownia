@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ramenownia/static/css/main.d9d551ee.css",
+    "main.css": "/ramenownia/static/css/main.b4c1bf20.css",
     "main.js": "/ramenownia/static/js/main.a69e0dbc.js",
     "static/js/787.e1e450ff.chunk.js": "/ramenownia/static/js/787.e1e450ff.chunk.js",
     "static/media/Shoyu.png": "/ramenownia/static/media/Shoyu.2cd5ffb42803321e554c.png",
@@ -10,12 +10,12 @@
     "static/media/body-background.jpeg": "/ramenownia/static/media/body-background.c877ec9608ea8a7b2733.jpeg",
     "static/media/Tantanmen.png": "/ramenownia/static/media/Tantanmen.23ca49f648c661c05250.png",
     "index.html": "/ramenownia/index.html",
-    "main.d9d551ee.css.map": "/ramenownia/static/css/main.d9d551ee.css.map",
+    "main.b4c1bf20.css.map": "/ramenownia/static/css/main.b4c1bf20.css.map",
     "main.a69e0dbc.js.map": "/ramenownia/static/js/main.a69e0dbc.js.map",
     "787.e1e450ff.chunk.js.map": "/ramenownia/static/js/787.e1e450ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9d551ee.css",
+    "static/css/main.b4c1bf20.css",
     "static/js/main.a69e0dbc.js"
   ]
 }
