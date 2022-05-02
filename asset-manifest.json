@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ramenownia/static/css/main.f7f96152.css",
-    "main.js": "/ramenownia/static/js/main.2f424fbc.js",
+    "main.js": "/ramenownia/static/js/main.6cd880b2.js",
     "static/js/787.e1e450ff.chunk.js": "/ramenownia/static/js/787.e1e450ff.chunk.js",
     "static/media/Shoyu.png": "/ramenownia/static/media/Shoyu.2cd5ffb42803321e554c.png",
     "static/media/miski.png": "/ramenownia/static/media/miski.bc2bc2720ef1fc417b60.png",
@@ -11,11 +11,11 @@
     "static/media/Tantanmen.png": "/ramenownia/static/media/Tantanmen.23ca49f648c661c05250.png",
     "index.html": "/ramenownia/index.html",
     "main.f7f96152.css.map": "/ramenownia/static/css/main.f7f96152.css.map",
-    "main.2f424fbc.js.map": "/ramenownia/static/js/main.2f424fbc.js.map",
+    "main.6cd880b2.js.map": "/ramenownia/static/js/main.6cd880b2.js.map",
     "787.e1e450ff.chunk.js.map": "/ramenownia/static/js/787.e1e450ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f96152.css",
-    "static/js/main.2f424fbc.js"
+    "static/js/main.6cd880b2.js"
   ]
 }
